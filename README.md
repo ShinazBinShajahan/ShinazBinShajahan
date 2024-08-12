@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shinaz Bin Shajahan</h1>
 <h3 align="center">Passionate computer science undergraduate student with a keen interest in web development, driven by a desire to create seamless and visually appealing online experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinazbinshajahan&label=Profile%20views&color=0e75b6&style=flat" alt="shinazbinshajahan" /> </p>
-
 - 👨‍💻 All of my projects are available at [shinazbinshajahan.github.io](shinazbinshajahan.github.io)
 
 - 📫 Reach me at **shinaz2003@gmail.com**
