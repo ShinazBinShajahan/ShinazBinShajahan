@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [shinazbinshajahan.github.io](shinazbinshajahan.github.io)
 
-- 📫 How to reach me **shinaz2003@gmail.com**
+- 📫 Reach me at **shinaz2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
