@@ -2,7 +2,7 @@
 
 **👨‍💻 Computer Science Undergraduate | 🚀 Web Developer | 🎯 Tech Enthusiast**
 
-Welcome to my GitHub profile! I’m a **passionate developer** who loves building seamless, interactive, and visually appealing **web applications**. I am always excited to explore new technologies and improve my skills.
+Welcome to my GitHub profile! I’m a **passionate developer** who loves building seamless, interactive, and visually appealing **web applications**. Always excited to explore new technologies and improve my skills !
 
 ---
 
@@ -34,10 +34,9 @@ Welcome to my GitHub profile! I’m a **passionate developer** who loves buildin
 
 ## 📊 **GitHub Stats**
 
-![Shinaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinazbinshajahan&theme=radical&show_icons=true&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinazbinshajahan&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinazbinshajahan&theme=radical&hide_border=true&layout=compact)  
-
+![](https://github-readme-stats.vercel.app/api?username=shinazbinshajahan&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shinazbinshajahan&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinazbinshajahan&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ---
 
 ## 🏆 **GitHub Trophies**
@@ -46,7 +45,7 @@ Welcome to my GitHub profile! I’m a **passionate developer** who loves buildin
 
 ---
 
-## 💡 **Quote of the Day**
+## 💡 **A Random Dev Quote**
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -54,7 +53,5 @@ Welcome to my GitHub profile! I’m a **passionate developer** who loves buildin
 
 ## 📬 **Get in Touch**
 
-- 📧 **shinazbinshajahan@gmail.com**  
-- 🌍 [**Portfolio (if available)**](#)  
-
+- 📧 **shinaz2003@gmail.com**  
 **Let's build something amazing together! 🚀**
