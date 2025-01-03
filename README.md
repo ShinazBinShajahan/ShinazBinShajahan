@@ -54,5 +54,3 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ---
-
-**⭐ Don't forget to star my repositories if you find them useful!** 🚀  
